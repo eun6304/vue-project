@@ -1,6 +1,6 @@
 <template>
   <div class="movies">
-    <h1>tbqkf</h1>
+    <h1>영화 ^^</h1>
     <div v-for="movie in movies" :key="movie.index" class="movie">
       <img v-bind:src="movie.poster" class="poster">
       <div>
